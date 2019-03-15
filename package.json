@@ -1,0 +1,9 @@
+{
+  "name": "libs",
+  "version": "1.0.0",
+  "main": "redis_bus.js",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
